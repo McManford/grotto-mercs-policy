@@ -1,2 +1,2 @@
-# grotto-mercs-policy
+# Grotto Mercs Policy
 game policy
